@@ -22,3 +22,4 @@ vendor
 /dry-run
 **/bin/helper
 /.core-bash_history
+coverage/
